@@ -1,5 +1,7 @@
 RENCANA KONTEN YT
--TUTORIAL INKSCAPE 
+-TUTORIAL INKSCAPE
+ *Pengenalan sftware
+ *pengenalan fitur
 -T.SW
 -T.DAVINCI RESOLVE
   *pengenalan sftware
