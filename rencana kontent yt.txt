@@ -4,5 +4,5 @@ RENCANA KONTEN YT
  *pengenalan fitur
 -T.SW
 -T.DAVINCI RESOLVE
--T.Eagle
--vlog yt
+  *pengenalan sftware
+  *pengenalan fitur
