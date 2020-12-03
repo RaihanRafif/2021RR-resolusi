@@ -2,4 +2,5 @@ RENCANA KONTEN YT
 -TUTORIAL INKSCAPE 
 -T.SW
 -T.DAVINCI RESOLVE
--T.Eagle
+  *pengenalan sftware
+  *pengenalan fitur
